@@ -12,3 +12,5 @@ Features:
 
     Responsive Design: NewsApp is built with a responsive design, ensuring optimal viewing and usability across different devices, whether it's a desktop, tablet, or smartphone. Enjoy the same seamless experience, regardless of your preferred device.
     
+![Screenshot](/images/image5)
+![Screenshot](/images/image6)
